@@ -1,0 +1,42 @@
+.type.grass {
+    background-color: seagreen;
+}
+.type.fire {
+    background-color: indianred;
+}
+.type.electric {
+    background-color: #ffd300;
+}
+.type.poison {
+    background-color: rebeccapurple;
+}
+.type.water {
+    background-color: royalblue;
+}
+.type.bug {
+    background-color: saddlebrown;
+}
+.type.flying {
+    background-color: cadetblue;
+}
+.type.normal {
+    background-color: darkslategrey;
+}
+.type.ground {
+    background-color: olivedrab;
+}
+.type.flying {
+    background-color: cadetblue;
+}
+.type.fairy {
+    background-color: slategrey;
+}
+.type.fighting {
+    background-color: fuchsia;
+}
+.type.psychic {
+    background-color: gray;
+}
+.type.steel {
+    background-color: dimgray;
+}

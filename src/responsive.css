@@ -1,0 +1,48 @@
+@media(max-width: 900px) {
+    .PokemonInfo {
+        width: 250px;
+    }
+}
+
+@media(max-width: 600px) {
+    .PokemonInfo {
+        width: 200px;
+    }
+    .load-more {
+        font-size: 20px;
+        width: 120px;
+    }
+    input.filter {
+        width: 100px;
+        font-size: 16px;
+        padding: 5px 10px;
+    }
+}
+
+@media(max-width: 550px) {
+    .PokemonInfo {
+        left: 50%;
+        top: 30%;
+    }
+
+}
+
+@media(max-width: 420px) {
+    body {
+        font-size: 12px;
+    }
+    .PokemonInfo {
+        left: 50%;
+        width: 150px;
+    }
+    .img-info {
+        height: 150px;
+        margin: 5px 5px 0 5px;
+    }
+}
+
+@media(max-height: 600px) {
+    .PokemonInfo {
+        top: 25%;
+    }
+}
